@@ -1,0 +1,12 @@
+function Mainbody() {
+
+    return (
+      <>
+        <h2>Main</h2>
+        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Culpa, illum eveniet quis excepturi a consequatur! Molestias beatae voluptates commodi saepe veniam maiores incidunt reiciendis, recusandae nisi hic, illum, numquam praesentium vero quo excepturi et repudiandae eveniet perspiciatis sunt tempora tempore veritatis laboriosam. At, recusandae sit! Optio officiis officia dolorem aperiam minima? Libero magni nam quibusdam illum suscipit! Necessitatibus suscipit dolore ab quos tempora corporis? Tenetur earum commodi doloribus repellat laudantium ab culpa quaerat itaque quibusdam odit placeat ea dolorem deserunt qui eum, quae, quas iste cum praesentium quos cupiditate ad illo. Nostrum necessitatibus velit ut esse voluptatem odio earum quia sapiente tenetur. Possimus non provident perspiciatis eaque ut, quasi dolorem expedita quisquam, ab natus harum consequatur ex quos rerum assumenda quia temporibus sapiente! A, sapiente natus dignissimos similique sequi cumque, aliquid vitae dolor nulla et aperiam? Ex delectus, tempora ipsa libero unde magnam doloremque numquam! Dolorem illo autem animi rem soluta blanditiis illum pariatur cum natus at earum, dolor veritatis dolorum consequuntur unde aliquam veniam ipsa sed perspiciatis aut commodi voluptatibus? Quisquam quis sunt suscipit nam cupiditate dolorem sapiente exercitationem recusandae at atque minus, doloribus eveniet consequatur tempore nemo voluptate natus ipsam, eius maiores veniam magni. Est dolores rerum exercitationem, incidunt asperiores soluta quasi dolor, tempore cum quam molestias. Nemo, autem laboriosam accusamus vel quia facilis ratione perferendis. Commodi reprehenderit in quas aliquid ducimus? Voluptas impedit, dolore inventore aut tenetur obcaecati labore fuga rerum corporis hic facere nostrum nam? Nemo hic adipisci velit perferendis, provident, fugit placeat tempora ab nihil molestias at, illum repellat unde fuga consectetur dolorem numquam autem ea quia quibusdam! Magnam similique, excepturi repellendus perspiciatis officia itaque tenetur est dicta voluptate, porro id quis? Aperiam ducimus quae, praesentium eum quo velit mollitia consectetur aliquid nesciunt eius id inventore blanditiis dicta labore? Aperiam earum dignissimos cumque itaque atque.</p>
+        
+      </>
+    )
+  }
+  
+  export default Mainbody
